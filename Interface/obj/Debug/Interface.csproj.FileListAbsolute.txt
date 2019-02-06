@@ -1,0 +1,7 @@
+c:\users\acer-pc\source\repos\Interface\Interface\bin\Debug\Interface.exe.config
+c:\users\acer-pc\source\repos\Interface\Interface\bin\Debug\Interface.exe
+c:\users\acer-pc\source\repos\Interface\Interface\bin\Debug\Interface.pdb
+c:\users\acer-pc\source\repos\Interface\Interface\obj\Debug\Interface.csprojAssemblyReference.cache
+c:\users\acer-pc\source\repos\Interface\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+c:\users\acer-pc\source\repos\Interface\Interface\obj\Debug\Interface.exe
+c:\users\acer-pc\source\repos\Interface\Interface\obj\Debug\Interface.pdb
